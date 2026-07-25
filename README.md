@@ -22,8 +22,9 @@ This web application displays lists of board games and their reviews. While anyo
 - Spring Security
 - Twitter Bootstrap
 - Maven
+  
 
-## Features
+## Features  #
 
 - Full-Stack Application
 - UI components created with Thymeleaf and styled with Twitter Bootstrap
